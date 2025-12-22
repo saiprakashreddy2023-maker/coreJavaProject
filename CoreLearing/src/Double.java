@@ -8,7 +8,7 @@ public class Double {
         salary[4]=60000;
         salary[5]=70000;
 
-        System.out.println("salarys");
+        System.out.println("salarys amount:"+salary.length);
 
         for (int a=0;a< salary.length;a++){
 
